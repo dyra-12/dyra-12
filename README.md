@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **to enhance my skills**
 
 - 📫 How to reach me **dyuti.dasmahapatra.21cse@bmu.edu.in**
-
-<h4>View my <a href='https://dyuti-portfolio.netlify.app/'>portfolio</a></h4>
+<br>
+<h3>View my <a href='https://dyuti-portfolio.netlify.app/'>portfolio</a></h3>
 
 <br>
 <h3 align="left">Connect with me:</h3>
