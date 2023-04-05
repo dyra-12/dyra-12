@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **dyuti.dasmahapatra.21cse@bmu.edu.in**
 
+<h4>View my <a href='https://dyuti-portfolio.netlify.app/'>portfolio</a></h4>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
