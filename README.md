@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dyuti Dasmahapatra</h1>
 <h3 align="center">A passionate ML and Full Stack Developer</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ffemale-programmer&psig=AOvVaw1LFQD4nnxBkImhzeuVYG6S&ust=1708434630996000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi0uY29t4QDFQAAAAAdAAAAABAf" align="right" alt="Coding" width="400">
+<img src="https://png.pngtree.com/png-clipart/20230811/original/pngtree-female-programmer-flat-color-vector-detailed-character-vector-woman-worker-vector-picture-image_10351249.png" align="right" alt="Coding" width="400">
 <br><br><br>
 
 
