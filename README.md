@@ -6,7 +6,7 @@
 <br><br><br>
 
 
- - 🔭 I’m currently working on **Animator**
+ - 🔭 I’m currently working on **Animator v2**
 
 - 🌱 I’m currently learning **to enhance my skills**
 
