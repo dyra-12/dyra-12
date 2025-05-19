@@ -1,6 +1,8 @@
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dyuti+Dasmahapatra;A+Passionate+Coder+%26+AI+Enthusiast; Exploring+the+World+of+Technology" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dyuti+Dasmahapatra;A+Passionate+Coder+%26+AI+Enthusiast;Exploring+the+World+of+Technology" alt="Typing SVG">
 </h1>
+
 
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-3839575-3202877.png" align="right" alt="Coding" width="400">
