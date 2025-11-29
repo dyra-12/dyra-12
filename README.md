@@ -181,6 +181,5 @@ Transformer-based framework for discovering novel antimicrobial peptides effecti
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dyra-12&color=F85D7F&style=for-the-badge&label=Profile+Views)
 
 </div>
