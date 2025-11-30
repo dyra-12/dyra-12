@@ -24,9 +24,9 @@
 
 Using artificial intelligence to build computational systems at the intersection of human cognition and machine intelligence:
 
-- 🧪 **Psychology** — Applying principles of human cognition, bias, and behavior to inform AI design
+- 🧪 **Psychology** — Applying principles of human cognition and behavior to inform ML model design.
 - 🧠 **Cognitive Modeling** — Implementing computational models of human reasoning and decision-making
-- 🎯 **Human-Computer Interaction (HCI)** — Designing and evaluating interactive systems based on human capabilities
+- 🎯 **Human-Computer Interaction (HCI)** — Designing interfaces where adaptive ML responds to human capabilities
 - 🤖 **Human-Centered AI (HCAI)** — Ensuring AI systems are ethical, transparent, and aligned with human values
 
 <br clear="both"/>
