@@ -163,13 +163,23 @@ Transformer-based framework for discovering novel antimicrobial peptides effecti
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dyra-12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dyra-12&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyra-12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dyra-12&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+
+<!-- GitHub Streak -->
+<img width="49%" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=dyra-12&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" 
+     alt="GitHub Streak"/>
+
+
+
+<!-- Contribution Graph -->
+<img width="49%" 
+     src="https://github-readme-activity-graph.vercel.app/graph?username=dyra-12&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" 
+     alt="Contribution Graph"/>
 
 </div>
+
+
 
 ---
 
