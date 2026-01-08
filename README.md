@@ -4,7 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dyuti%20Dasmahapatra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Human-Centered%20AI%20Researcher&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Bridging+Cognition+and+Machine+Learning;Engineering+AI+with+a+Theory+of+Human+Mind;Building+Human-Aligned+Intelligent+Systems;Researching+at+the+Intersection+of+HCI+and+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Understanding+Human+Beliefs+About+AI;Modeling+Cognition+and+Social+Inference;Designing+Interpretable+and+Trustworthy+AI;Researching+Human-AI+Interaction" 
+       alt="Typing SVG" />
+</a>
+
+
 
 <br/>
 
@@ -22,12 +27,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Using artificial intelligence to build computational systems at the intersection of human cognition and machine intelligence:
+Using cognitive science and social psychology to study human–AI interaction under uncertainty, with the goal of designing interpretable and trustworthy AI systems, especially in high-stakes and vulnerable contexts:
 
-- 🧪 **Psychology** — Applying principles of human cognition and behavior to inform ML model design.
-- 🧠 **Cognitive Modeling** — Implementing computational models of human reasoning and decision-making
-- 🎯 **Human-Computer Interaction (HCI)** — Designing interfaces where adaptive ML responds to human capabilities
-- 🤖 **Human-Centered AI (HCAI)** — Ensuring AI systems are ethical, transparent, and aligned with human values
+- 🧠 **Cognitive Science** — Investigating how people form beliefs, expectations, and mental models of AI behavior.
+- 🧪 **Social Psychology** — Studying trust, attribution, responsibility, and perceived agency in human–AI interactions.
+- 📐**Computational Modeling** — Formalizing psychological theory to support empirical investigation and model human reasoning.
+- 🔍 **Interpretability & Trust** — Informing AI design to improve transparency, understanding, and user confidence.
+- 🤖 **Human-Centered AI (HCAI)** — Ensuring AI systems align with human values in socially and ethically sensitive settings.
 
 <br clear="both"/>
 
