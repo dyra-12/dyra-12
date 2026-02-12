@@ -68,7 +68,7 @@ Auditing framework for detecting algorithmic bias in career recommendation syste
 **Stack:** `Transformers` `SHAP` `Gradio`
 
 <a href="https://github.com/dyra-12/BiasGuard-Pro"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="link"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1iI_6QNL1uXa4qINChuCylT9z6IKy35hi/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </td>
 </tr>
