@@ -62,6 +62,7 @@ Building AI agents that model user beliefs and intentions for proactive assistan
 
 ### 🛡️ Bias Guard Pro
 <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square" />
+
 Human-centered framework for auditing gender bias in career recommendation systems
 
 **Stack:** `DistilBERT` `SHAP` `Counterfactuals` `Gradio`
