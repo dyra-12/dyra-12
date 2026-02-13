@@ -46,18 +46,19 @@ Using cognitive science and social psychology to study human–AI interaction un
 <table>
 <tr>
 <td width="50%" valign="top">
-
+  
 ### 🤖 Machine Theory of Mind
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  
+Belief-based social reasoning for interpretable human–AI interaction
 
-Building AI agents that model user beliefs and intentions for proactive assistance
-
-**Stack:** `Python` `Pyro` `Bayesian Networks`
+**Stack:** `Python` `Pyro` `Probabilistic Modeling`
 
 <a href="https://github.com/dyra-12/Machine-Theory-Of-Mind"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="link"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1cTfQuZik4xAoU-PB7yvYrqhTPUx2EBch/view"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛡️ Bias Guard Pro
