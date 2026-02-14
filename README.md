@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-dyutidasmahaptra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyutidasmahapatra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyuti-dasmahapatra-9686531b9/)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Contributor-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Dyra1204)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
