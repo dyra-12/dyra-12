@@ -146,7 +146,7 @@ Transformer-based framework for antimicrobial peptide discovery.
 
 | 📄 Publication | 📚 Venue | 🔗 Links |
 |:--------------|:---------|:---------|
-| **UNET-Based Segmentation for Diabetic Macular Edema Detection in OCT Images** | ICCIS 2025, Springer LNNS | [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](link) [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/dyra-12/DME-OCT-Segmentation) |
+| **UNET-Based Segmentation for Diabetic Macular Edema Detection in OCT Images** | ICCIS 2025, Springer LNNS | [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1fe4AbvAmTjvE3ozbbQ6S94i2vjB2FuRw/view?usp=sharing) [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/dyra-12/DME-OCT-Segmentation) |
 
 </div>
 
