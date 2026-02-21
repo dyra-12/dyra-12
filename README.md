@@ -102,24 +102,23 @@ Interactive human-in-the-loop auditing system for fairness in NLP decision syste
 <td width="50%" valign="top">
 
 ### 🧩 CogniViz
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square" />
 
-Real-time estimation of user cognitive state from interaction traces.
+Real-time estimation of user cognitive load from natural interaction traces.
 
-**Technical Contribution:** Designed a pipeline to infer cognitive state using behavioral signals. Achieved F1 = 0.82 using machine learning models.
+**Technical Contribution:** Designed an end-to-end behavioral inference pipeline that models cognitive load using interpretable interaction features. Achieved F1 = 0.82 under participant-independent evaluation using machine learning.
 
-**Research Impact:** Conducted a controlled user study (N=25) to evaluate how adaptive feedback influences performance and trust.
+**Research Contribution:** Conducted a controlled user study (N = 25) to collect high-resolution behavioral telemetry and NASA-TLX workload ground truth for validating cognitive load inference.
 
-**Stack:** `Scikit-learn` `JavaScript` `Behavioral Data Analysis`
+**Stack:** `Python (Scikit-learn, SHAP)` `React` `FastAPI` `Behavioral Data Analysis`
 
-<a href="https://github.com/dyra-12/cognitive-load-analysis"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="link"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://github.com/dyra-12/CogniViz-Behavioral-Modeling"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1gyHREp5Zg2THAiwjeFCNj-uo6E2Y0uj0/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
-</td>
 <td width="50%" valign="top">
 
 ### 🧬 AMPlify-Enhanced
-<img src="https://img.shields.io/badge/Status-Published-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square" />
 
 Transformer-based framework for antimicrobial peptide discovery.
 
