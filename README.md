@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dyuti%20Dasmahapatra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computational%20Researcher%20|%20Human-AI%20Interaction%20&amp;%20Cognitive%20Modeling&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dyuti%20Dasmahapatra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Human-Adaptive%20AI%20Researcher&descAlignY=51&descAlign=50" width="100%"/>
 
 
 <!-- Typing Animation -->
@@ -40,18 +40,17 @@ My work lies at the intersection of:
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Research Methodology — Closed-Loop Human-Centered AI
-
-I follow a cognition-driven, closed-loop research cycle to study and align intelligent systems with human reasoning under uncertainty:
+I pursue a cognition-driven, closed-loop research program to develop intelligent systems that adapt to human reasoning under uncertainty.
 
 <div align="center">
 
-| 🧠 Question | 🏗️ Build | 🧪 Study | 🔢 Model | 🔄 Derive & Iterate |
+  | 🧠 Question | 🏗️ Build | 🧪 Study | 🔢 Model | 🔄 Adapt |
 |:------------|:---------|:---------|:---------|:--------------------|
-| Formulating cognitive and interaction research questions about how humans interpret, trust, and adapt to AI behavior | Engineering interactive AI systems and explainability frameworks as experimental platforms to operationalize these questions | Designing behavioral experiments and user studies to measure trust formation, belief updating, and cognitive adaptation | Developing computational and probabilistic models to formalize human reasoning and social inference about AI | Translating empirical findings into design principles for uncertainty-aware, adaptive, and human-aligned AI systems |
+| Formulate cognitive and interaction questions about how humans interpret, trust, and update beliefs about AI behavior. | Develop controlled, interactive AI systems as experimental platforms. | Conduct behavioral experiments to measure trust dynamics, belief updating, and mental model formation over time. | Construct computational models that infer latent cognitive states such as beliefs and uncertainty. | Embed these models into AI systems that dynamically adjust explanations, autonomy, and decision policies—enabling human–AI co-adaptation. |
 
 </div>
 
-This cycle enables me to bridge **AI engineering, computational cognitive science, and human-centered system design**.
+This cycle moves from understanding human cognition to engineering human-adaptive intelligent systems grounded in empirical and computational insights.
 
 ---
 
@@ -75,7 +74,7 @@ Belief-based computational modeling of human social reasoning in AI interaction.
 **Stack:** `Python` `Pyro` `Probabilistic Modeling`
 
 <a href="https://github.com/dyra-12/Machine-Theory-Of-Mind"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1cTfQuZik4xAoU-PB7yvYrqhTPUx2EBch/view"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1vGQEuk3hBqq8fefYEFxKe5mBd-GBJMN8/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </td>
 
@@ -93,7 +92,7 @@ Interactive human-in-the-loop auditing system for fairness in NLP decision syste
 **Stack:** `DistilBERT` `SHAP` `Counterfactuals` `Gradio`
 
 <a href="https://github.com/dyra-12/BiasGuard-Pro"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1iI_6QNL1uXa4qINChuCylT9z6IKy35hi/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1tFmz208-MhPMDxpnH98WA54QTh1cO8Bl/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </td>
 
@@ -127,6 +126,8 @@ Transformer-based framework for antimicrobial peptide discovery.
 **Research Impact:** Supports AI-driven drug discovery for WHO priority pathogens.
 
 **Stack:** `Deep Learning` `Bioinformatics` `Transformers`
+
+**Broader Significance:** Demonstrates my ability to design high-performance transformer-based systems, informing my work on human-adaptive intelligent systems.
 
 <a href="https://github.com/dyra-12/AMPlify-Enhanced-AMP-Prediction"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1Tbl97ST7BPhYr1FcysAMnLjQ-Tqu6dA8/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
@@ -214,7 +215,7 @@ Transformer-based framework for antimicrobial peptide discovery.
 
 ### 💭 Research Philosophy
 
-*"Building systems that understand humans, so humans can better understand AI."*
+*"Formalizing how humans reason about AI to build systems that align with human cognition."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
