@@ -152,6 +152,61 @@ Transformer-based framework for antimicrobial peptide discovery.
 
 ---
 
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔬 Human Trust & Uncertainty Metrics
+<img src="https://img.shields.io/badge/Role-Contributor-8B5CF6?style=flat-square" />
+
+Proposed and implemented the `human_ai_trust` module to operationalize trust calibration and belief-updating metrics for human–AI interaction research.
+
+**Stack:** `Python` `Metrics` `Trust Modeling`
+
+<a href="https://github.com/huggingface/evaluate/pull/728"><img src="https://img.shields.io/badge/View_PR-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dyra-12/evaluate/tree/main/metrics/human_ai_trust"><img src="https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗂️ Human–AI Belief Dynamics Dataset
+<img src="https://img.shields.io/badge/Role-Creator-success?style=flat-square" />
+
+A theory-driven dataset for modeling human trust and belief updating in human–AI interaction. Grounded in computational cognitive science principles.
+
+**Stack:** `Dataset` `Belief Updating` `Trust Dynamics`
+
+<a href="https://huggingface.co/datasets/Dyra1204/human_ai_belief_dynamics"><img src="https://img.shields.io/badge/🤗_HF_Dataset-FFD21E?style=for-the-badge&logoColor=black"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Responsive Fine-Tuner (RFT)
+<br>
+<img src="https://img.shields.io/badge/Role-Creator-success?style=flat-square" />
+
+Human-in-the-loop LLM adaptation framework with LoRA/PEFT and stability–plasticity evaluation for continually adapting language models to human feedback.
+
+**Stack:** `LoRA` `PEFT` `LLM` `Human-in-the-loop`
+
+<a href="https://github.com/dyra-12/Responsive-Fine-Tuner"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> Tech Stack
 
 <div align="center">
