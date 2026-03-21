@@ -31,9 +31,9 @@ I develop **intelligent interactive AI systems as experimental platforms** to st
 My work lies at the intersection of:
 
 - 🤖 **Human-AI Interaction** — Understanding how people reason about, trust, and adapt to AI systems.
-- 🧠 **Computational Cognitive Modeling** — Formalizing psychological theory to model human reasoning under uncertainty.
-- ⚙️ **Adaptive Intelligent Systems** — Engineering AI systems that respond to and align with human cognition.
-- 🔍 **Explainable AI** — Informing AI design to improve transparency, interpretability, and user confidence.
+- 🧠 **Computational Cognitive Modeling** — Formalizing theories of human reasoning and uncertainty into computational frameworks.
+- ⚙️ **Adaptive Intelligent Systems** — Designing AI systems that adjust their behavior over time in response to human cognition and interaction.
+- 🔍 **Explainable AI** — Developing explanation strategies that improve transparency, interpretability, and trust calibration.
 
 <br clear="both"/>
 
