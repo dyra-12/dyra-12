@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dyuti%20Dasmahapatra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Human-Adaptive%20AI%20Researcher&descAlignY=51&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dyuti%20Dasmahapatra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Human-AI%20Interaction%20Researcher%20%7C%20Cognitive%20Modeling%20and%20Adaptive%20AI%20Systems&descAlignY=51&descAlign=50&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Building+AI+Systems+to+Study+Human+Cognition;Modeling+Trust+and+Belief+Updating+in+Human-AI+Interaction;Designing+Uncertainty-Aware+Adaptive+AI;Computational+Human-Centered+Intelligent+Systems" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&lines=Building+AI+Systems+to+Study+Human+Cognition;Modeling+Trust+and+Belief+Updating+in+Human-AI+Interaction;Designing+Uncertainty-Aware+Adaptive+AI+Systems;Computational+Human-Centered+AI+Systems" 
        alt="Typing SVG" />
 </a>
 
